@@ -1,0 +1,1 @@
+rm /home/kim/.lkvm//*
